@@ -30,7 +30,7 @@ twitter_username: Sillocan
 github_username:  Forgemaster-bot
 
 # Build settings
-theme: minima
+theme: "just-the-docs"
 plugins:
   - jekyll-feed
 
